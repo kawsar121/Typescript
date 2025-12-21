@@ -15,3 +15,4 @@ const added = (number1 :number, number2:number) : number =>{
 
 
 // ** Object er modde function thakle take method bole
+//
