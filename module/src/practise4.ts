@@ -1,1 +1,1 @@
-// Spread Oparetors
+// Spread Oparetorss
