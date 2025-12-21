@@ -2,7 +2,7 @@
 const users : {
     company : 'bd 71' // Eta ke bole Type--> literal  //eta use korbo tokhon jokhon kono value fixed hobe
     firstName : string;
-    middleName? : string; //Optional Jodi middle name thake nibe, na thakle o somossa ney
+    middleName? : string; //Eta ke bole Type--> Optional  Jodi middle name thake nibe, na thakle o somossa ney
     lastName : string;
     age : number;
 } = {
