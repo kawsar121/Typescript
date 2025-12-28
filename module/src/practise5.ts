@@ -1,4 +1,4 @@
-    // Destructuring
+    // Destructuring with Name Alias
 const joshim : {
     name : string,
     age: number
@@ -8,4 +8,4 @@ const joshim : {
 }
 
 const {name} = joshim;
-const {name : herName} = joshim;   // clone diye name decler kore dilam
+const {name : herName} = joshim;   // clone diye name decler kore dilam; etar arekta name ase ta holo name alias
