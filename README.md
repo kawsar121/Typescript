@@ -13,3 +13,4 @@ _________________________
 * Name Alias use korte hole just clone diye jekono akta name dile 
   hobe
 * Type Alias Use korte hole must be 'type=' dite hobe. Type Alias use korar karon holo bar bar jate type decler kora na lage
+* Union type '|' just sign ta dile hobe. rendom select er jonno use korbo
